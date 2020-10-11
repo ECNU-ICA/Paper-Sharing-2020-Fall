@@ -29,7 +29,7 @@ Please read abstract/introduction sections before the seminar.
 ## Agenda
 |Week|	Date	|Speaker|	Paper|	Materials|
 |  ----   | ----  |   ----   | ----  |   ----   |
-|1|	2020.10.11	|Jie zhou|	Paper|	Materials|
+|1|	2020.10.11	|Jie zhou|	VisualBERT: A Simple and Performant Baseline for Vision and Language|	[Materials](https://arxiv.org/pdf/1908.03557.pdf)|
 |2|	2020.10.18	| |	|	|
 |3|	2020.10.25	| |	|	|
 |4|	2020.11.01	| |	|	|
