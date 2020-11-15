@@ -34,4 +34,4 @@ Please read abstract/introduction sections before the seminar.
 |3|	2020.10.25	| Chengqi Xu |	Grounded Compositional Outputs for Adaptive Language Modeling | [Materials](https://arxiv.org/abs/2009.11523)	|
 |4|	2020.11.01	| Qinchun Bai | Stylized Text Generation (ACL2020 Tutorial)	|	[Materials](https://drive.google.com/file/d/1r5BbBZii3qPXGWJ7aKN3AAw4lhLDuVvp/view)|
 |5|	2020.11.08	| Yuhao Dan / Chengqi Xu | BERT-INT: A BERT-based Interaction Model For Knowledge Graph Alignment / Almost Unsupervised Text to Speech and Automatic Speech Recognition	|	[Materials](https://www.ijcai.org/Proceedings/2020/0439.pdf) [Materials](https://arxiv.org/abs/1905.06791)|
-|5|	2020.11.15	| Jie Zhou | CERT: Contrastive Self-supervised Learning for Language Understanding	|	[Materials](https://arxiv.org/pdf/2005.12766.pdf)|
+|5|	2020.11.15	| Jie Zhou | SUPERVISED CONTRASTIVE LEARNING FOR PRE-TRAINED LANGUAGE MODEL FINE-TUNING	|	[Materials](https://arxiv.org/pdf/2011.01403.pdf)|
