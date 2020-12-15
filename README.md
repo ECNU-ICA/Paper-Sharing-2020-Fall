@@ -36,6 +36,6 @@ Please read abstract/introduction sections before the seminar.
 |5|	2020.11.08	| Yuhao Dan / Chengqi Xu | BERT-INT: A BERT-based Interaction Model For Knowledge Graph Alignment / Almost Unsupervised Text to Speech and Automatic Speech Recognition	|	[Materials](https://www.ijcai.org/Proceedings/2020/0439.pdf) [Materials](https://arxiv.org/abs/1905.06791)|
 |5|	2020.11.15	| Jie Zhou | SUPERVISED CONTRASTIVE LEARNING FOR PRE-TRAINED LANGUAGE MODEL FINE-TUNING	|	[Materials](https://arxiv.org/pdf/2011.01403.pdf)|
 |6|	2020.11.30	| Chengqi Xu | Document-Level Ralation Classification/Relation Extraction in Conversation	|	[Materials]()|
-|6|	2020.12.06	| Qi Zhang | Deep Learning for Event-Driven Stock Prediction/StockAssIstant: A Stock AI Assistant for Reliability Modeling of Stock Comments	|	[Materials]()|
-|7|	2020.12.13	| Yuhao Dan/Hongyang Zhou | Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference/Multi-modal Multi-label Emotion Detection with Modality and Label Dependence	|	[Materials]()|
+|7|	2020.12.06	| Qi Zhang | Deep Learning for Event-Driven Stock Prediction/StockAssIstant: A Stock AI Assistant for Reliability Modeling of Stock Comments	|	[Materials]()|
+|8|	2020.12.13	| Yuhao Dan/Hongyang Zhou | Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference/Multi-modal Multi-label Emotion Detection with Modality and Label Dependence	|	[Materials]()|
 
