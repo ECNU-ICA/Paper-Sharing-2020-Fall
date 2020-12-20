@@ -38,4 +38,4 @@ Please read abstract/introduction sections before the seminar.
 |7|	2020.11.30	| Chengqi Xu | Document-Level Ralation Classification/Relation Extraction in Conversation	|	[Materials]()|
 |8|	2020.12.06	| Qi Zhang | Deep Learning for Event-Driven Stock Prediction/StockAssIstant: A Stock AI Assistant for Reliability Modeling of Stock Comments	|	[Materials]()|
 |9|	2020.12.13	| Yuhao Dan/Hongyang Zhou | Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference/Multi-modal Multi-label Emotion Detection with Modality and Label Dependence	|	[Materials]()|
-
+|9|	2020.12.20	| Jie Zhou | Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers	|	[Materials]()|
