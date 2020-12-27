@@ -39,3 +39,4 @@ Please read abstract/introduction sections before the seminar.
 |8|	2020.12.06	| Qi Zhang | Deep Learning for Event-Driven Stock Prediction/StockAssIstant: A Stock AI Assistant for Reliability Modeling of Stock Comments	|	[Materials]()|
 |9|	2020.12.13	| Yuhao Dan/Hongyang Zhou | Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference/Multi-modal Multi-label Emotion Detection with Modality and Label Dependence	|	[Materials]()|
 |9|	2020.12.20	| Jie Zhou | Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers	|	[Materials]()|
+|10|	2020.12.27	| Qi Zhang | Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction	|	[Materials](https://www.aclweb.org/anthology/D19-1032.pdf)|
